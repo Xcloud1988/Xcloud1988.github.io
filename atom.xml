@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-06T02:10:53.976Z</updated>
+  <updated>2021-08-06T06:51:10.003Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>task</title>
+    <link href="http://example.com/2021/08/06/%E6%8A%80%E6%9C%AF/task/"/>
+    <id>http://example.com/2021/08/06/%E6%8A%80%E6%9C%AF/task/</id>
+    <published>2021-08-06T06:36:51.000Z</published>
+    <updated>2021-08-06T06:51:10.003Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><ul><li><p><input checked="" disabled="" type="checkbox">  背景添加</p></li><li><p><input checked="" disabled="" type="checkbox">  搜索栏设置</p></li><li><p><input checked="" disabled="" type="checkbox">  标签设置</p></li><li><p><input checked="" disabled="" type="checkbox">  音频添加</p></li><li><p><input checked="" disabled="" type="checkbox">  视频添加</p></li><li><p><input checked="" disabled="" type="checkbox">  图片插入 </p></li><li><p><input checked="" disabled="" type="checkbox">  数学公式添加</p></li><li><p><input checked="" disabled="" type="checkbox">  分类设置</p></li><li><p><input checked="" disabled="" type="checkbox">  添加图床</p></li><li><p><input checked="" disabled="" type="checkbox">  评论设置</p></li><li><p><input checked="" disabled="" type="checkbox">  文档加密 </p></li><li><p><input disabled="" type="checkbox">  二级分类</p></li><li><p><input disabled="" type="checkbox">  图库设置</p></li><li><p><input disabled="" type="checkbox">  ……</p></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="灌汤技术帖" scheme="http://example.com/categories/%E7%81%8C%E6%B1%A4%E6%8A%80%E6%9C%AF%E5%B8%96/"/>
+    
+    
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>早上好</title>
