@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-07T11:35:00.753Z</updated>
+  <updated>2021-08-07T11:43:06.908Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>秋天的第一杯奶茶</title>
+    <link href="http://example.com/2021/08/07/%E5%B0%8F%E8%83%96/drink-autunm/"/>
+    <id>http://example.com/2021/08/07/%E5%B0%8F%E8%83%96/drink-autunm/</id>
+    <published>2021-08-07T11:37:33.000Z</published>
+    <updated>2021-08-07T11:43:06.908Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>秋天的第一杯奶茶，经典红配绿。</p><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/20210807/drink-autumn.1w5qlrmaurmo.jpg"                      style="zoom: 40%;"                 >]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="小胖同学的故事" scheme="http://example.com/categories/%E5%B0%8F%E8%83%96%E5%90%8C%E5%AD%A6%E7%9A%84%E6%95%85%E4%BA%8B/"/>
+    
+    
+    <category term="奶茶" scheme="http://example.com/tags/%E5%A5%B6%E8%8C%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>小刀</title>
@@ -481,32 +505,6 @@
     <category term="音乐" scheme="http://example.com/tags/%E9%9F%B3%E4%B9%90/"/>
     
     <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>video test</title>
-    <link href="http://example.com/2021/08/03/%E6%8A%80%E6%9C%AF/video%20test/"/>
-    <id>http://example.com/2021/08/03/%E6%8A%80%E6%9C%AF/video%20test/</id>
-    <published>2021-08-03T05:28:36.000Z</published>
-    <updated>2021-08-06T09:03:32.439Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe src="//player.bilibili.com/player.html?aid=83833601&bvid=BV1zJ411E7J9&cid=143415910&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="95%" height="330"> </iframe>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="灌汤技术帖" scheme="http://example.com/categories/%E7%81%8C%E6%B1%A4%E6%8A%80%E6%9C%AF%E5%B8%96/"/>
-    
-    
-    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-    <category term="视频" scheme="http://example.com/tags/%E8%A7%86%E9%A2%91/"/>
     
   </entry>
   
