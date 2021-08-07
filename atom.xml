@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-07T11:43:06.908Z</updated>
+  <updated>2021-08-07T14:47:35.745Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>借我</title>
+    <link href="http://example.com/2021/08/07/%E6%96%87%E5%AD%A6/jiewo/"/>
+    <id>http://example.com/2021/08/07/%E6%96%87%E5%AD%A6/jiewo/</id>
+    <published>2021-08-07T13:42:35.000Z</published>
+    <updated>2021-08-07T14:47:35.745Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>        <div id="aplayer-jYEdrIvn" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-jYEdrIvn"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "借我",              author: "谢春花",              url: "http://www.ytmp3.cn/down/34511.mp3",              pic: "https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/20210807/借我.6ny9h07n4mo0.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>借我一个暮年，</p><p>借我碎片，</p><p>借我瞻前与顾后，</p><p>借我执拗如少年。</p><p>借我后天长成的先天，</p><p>借我变如不曾改变。</p><p>借我素淡的世故和明白的愚，</p><p>借我可预知的险。</p><p>借我悲怆的磊落，</p><p>借我温软的鲁莽和玩笑的庄严。</p><p>借我最初与最终的不敢，</p><p>借我不言而喻的不见。</p><p>借我一场秋啊，</p><p>可你说这已是冬天。</p><hr><p>​        2011年秋天，樊小纯前往乌镇探望木心，写下这首就《借我》。借我，是指自己做不到，或者说想做却没有勇气去做的诗。整首诗透着一股古朴和悲怆，打从第一个借我开始，就让人陷入到了使的苍凉的意境中。借我一个岁月尽头的暮年，一个一生的记忆碎片。我对任何事情，不再鲁莽冲动，不再犹豫不决，但我还想做一遍当初那个固执的少年，即使最后结果不如所愿，但总得有些事要坚持自己吧。但我也不想再经历一遍人生，不想再有分离的苦痛，要是先天就能有着后天所得的阅历、气质就好了，那让我在经历一遍世事时我可能就不会那么触动，尽管我可能依旧会有所改变，但似乎也不曾改变。如果我变得麻木，变得世故，变得不再执拗，你要相信，那不是真正的我，真实的我在出生的那刻便已经将后天的所有长成，一如那个执拗的少年。如今年老，看透了世故，原来它不过时那么素淡，可有可无。年轻时候的那些愚钝，遭受的许多欺骗，现在看来，也不过是那样天真，看的开了，看的明白了，却也希望能让我避过真正受伤的未知的困难。磊落是光明洒脱的，但你却很难相信它的背后经历过多少的悲怆凄凉。男孩也终究会在莽撞中学会温柔细腻，但难免逃不过庄严的时刻，却总用玩笑来掩饰，或许这样也能欺骗一下自己吧。也想到当初不敢轻易许下诺言，不敢对未来有所承担，不敢对未来有所选择，然而到了最后，却是舍不得道别，没有了去道别的勇气。即使，我们都知道这次过后就不再会有见面的机会了，这不言而喻的事实总是舍不得破坏。我不奢求朝气的春天和热情夏天了，给我一场逐渐凋零的秋天吧，但是你说树叶落尽，已经是冰冷的冬天了。</p><p>​        读完最后一句，悲从心来，附带着的是极致的无奈。整篇十三句“以借”我开头，可到了最后一句，却仿佛有一种不再奢求的无可奈何，之前所有的借我，都被你的这一句冬天所打破，现实打破梦境，只剩下叹气。</p><p>~~~</p><p>​        喜欢谢春花的《借我》，2020年有改版重唱过，但总还是喜欢这一版，相比于新版的柔，旧版给我一种走到尽头的无力，即使一直想要去改变自己，一直渴望拥有，但最后真的拥有了吗，或许最后鼓起勇气了，但可能已经开始下雪，是冬天到了吗？</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="超大杯奶茶文学" scheme="http://example.com/categories/%E8%B6%85%E5%A4%A7%E6%9D%AF%E5%A5%B6%E8%8C%B6%E6%96%87%E5%AD%A6/"/>
+    
+    
+    <category term="小诗" scheme="http://example.com/tags/%E5%B0%8F%E8%AF%97/"/>
+    
+    <category term="木心" scheme="http://example.com/tags/%E6%9C%A8%E5%BF%83/"/>
+    
+  </entry>
   
   <entry>
     <title>秋天的第一杯奶茶</title>
@@ -218,9 +244,9 @@
     <link href="http://example.com/2021/08/03/%E6%97%A5%E5%B8%B8/sunnyday/"/>
     <id>http://example.com/2021/08/03/%E6%97%A5%E5%B8%B8/sunnyday/</id>
     <published>2021-08-03T14:21:08.000Z</published>
-    <updated>2021-08-06T13:20:13.316Z</updated>
+    <updated>2021-08-07T13:39:34.547Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>        <div id="aplayer-JeEclADT" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-JeEclADT"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "晴天",              author: "周杰伦",              url: "https://sh-download-ipv6.ftn.qq.com/ftn_handler/62d99c690d3f3ce6ce22fc93d27b060eb6858eea61bb7833ddd6d94160c41c2b31549f9647294eb1893c6b767d3515bde6614b4d5626f464867ceadc0b950354/?fname=03.%20%E5%91%A8%E6%9D%B0%E4%BC%A6%20-%20%E6%99%B4%E5%A4%A9.wav&k=7238663887df1a9e909b93281631014c0f09070101550302150d505b051c07560f0f4b5900030b4e09090208085001570c01005a302433530b1646eeec8cefa1ef184b18f7d6ff8f164f074e300c&code=88f8013c&fr=00&&txf_fid=26f7cd28bb2daec029ac600a2448adb2d2a5168d&xffz=47583561",              pic: "http://home.ustc.edu.cn/~mmmwhy/jay.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>晴天-周杰伦</p><p>刮风这天我试过握着你手</p><p>但偏偏雨渐渐大到我看你不见</p><p>还要多久我才能在你身边<br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/images/sun1.4bbhowhwsbg0.jpg"                                     ></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>        <div id="aplayer-FAYAOfZp" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-FAYAOfZp"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "晴天",              author: "周杰伦",              url: "http://www.ytmp3.cn/down/73971.mp3",              pic: "http://home.ustc.edu.cn/~mmmwhy/jay.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>晴天-周杰伦</p><p>刮风这天我试过握着你手</p><p>但偏偏雨渐渐大到我看你不见</p><p>还要多久我才能在你身边<br><img                       lazyload                     src="/images/loading.svg"                     data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/images/sun1.4bbhowhwsbg0.jpg"                                     ></p>]]></content>
     
     
       
@@ -477,32 +503,6 @@
     
     <category term="灌汤技术帖" scheme="http://example.com/categories/%E7%81%8C%E6%B1%A4%E6%8A%80%E6%9C%AF%E5%B8%96/"/>
     
-    
-    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>music test</title>
-    <link href="http://example.com/2021/08/03/%E6%8A%80%E6%9C%AF/music%20test/"/>
-    <id>http://example.com/2021/08/03/%E6%8A%80%E6%9C%AF/music%20test/</id>
-    <published>2021-08-03T06:21:17.000Z</published>
-    <updated>2021-08-06T09:03:13.100Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>        <div id="aplayer-JQThDnQq" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-JQThDnQq"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "她的睫毛",              author: "周杰伦",              url: "http://home.ustc.edu.cn/~mmmwhy/%d6%dc%bd%dc%c2%d7%20-%20%cb%fd%b5%c4%bd%de%c3%ab.mp3",              pic: "http://home.ustc.edu.cn/~mmmwhy/jay.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="灌汤技术帖" scheme="http://example.com/categories/%E7%81%8C%E6%B1%A4%E6%8A%80%E6%9C%AF%E5%B8%96/"/>
-    
-    
-    <category term="音乐" scheme="http://example.com/tags/%E9%9F%B3%E4%B9%90/"/>
     
     <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
     
