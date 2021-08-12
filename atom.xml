@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-12T13:51:25.951Z</updated>
+  <updated>2021-08-12T14:18:58.999Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>thanks for my lucky</title>
+    <link href="http://example.com/2021/08/12/%E6%97%A5%E5%B8%B8/post/"/>
+    <id>http://example.com/2021/08/12/%E6%97%A5%E5%B8%B8/post/</id>
+    <published>2021-08-12T14:03:50.000Z</published>
+    <updated>2021-08-12T14:18:58.999Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>You will be lucky to have a shortcut in the coming week.<br><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/20210807/%E5%B9%B8%E8%BF%90.6cky4y1qohc0.JPG"></p><p>　《爱的辩证》洛夫<br>　　水深及膝<br>　　淹腹<br>　　一寸寸漫至喉咙<br>　　浮在河面上的两只眼睛<br>　　仍炯炯然<br>　　望向一条青石小径<br>　　两耳倾听裙带抚过蓟草的窸窣</p><p>　　日日<br>　　月月<br>　　千百次升降于我胀大的体内<br>　　石柱上苍苔历历<br>　　臂上长满了牡蛎<br>　　发，在激流中盘缠如一窝水蛇</p><p>　　紧抱桥墩<br>　　我在千噚之下等你<br>　　水来我在水中等你<br>　　火来<br>　　我在灰烬中等你</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="小言的日常生活" scheme="http://example.com/categories/%E5%B0%8F%E8%A8%80%E7%9A%84%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="心情" scheme="http://example.com/tags/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
   
   <entry>
     <title>罗森食记</title>
@@ -276,9 +300,9 @@
     <link href="http://example.com/2021/08/03/%E5%B0%8F%E8%83%96/yangmei/"/>
     <id>http://example.com/2021/08/03/%E5%B0%8F%E8%83%96/yangmei/</id>
     <published>2021-08-03T14:49:34.000Z</published>
-    <updated>2021-08-12T14:00:43.785Z</updated>
+    <updated>2021-08-12T14:04:24.930Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>重要的事情说三遍，可以吃杨梅了！<br><br>来自小胖杨梅的投喂！！！<br><br>话不多说，直接上图。<br><br><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/20210807/%E6%9D%A8%E6%A2%85.57z905ikvxo0.JPG"></p><p>余姚杨梅yyds！最爱杨梅！最爱小胖！！</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>重要的事情说三遍，吃杨梅了！吃杨梅了！吃杨梅了！<br><br>来自小胖杨梅的投喂！！！<br><br>话不多说，直接上图。<br><br><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/20210807/%E6%9D%A8%E6%A2%85.57z905ikvxo0.JPG"></p><p>余姚杨梅yyds！最爱杨梅！最爱小胖！！</p>]]></content>
     
     
       
@@ -493,27 +517,6 @@
     
     
     <category term="教学课件和资料" scheme="http://example.com/categories/%E6%95%99%E5%AD%A6%E8%AF%BE%E4%BB%B6%E5%92%8C%E8%B5%84%E6%96%99/"/>
-    
-    
-    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>password test</title>
-    <link href="http://example.com/2021/08/03/%E6%8A%80%E6%9C%AF/password/"/>
-    <id>http://example.com/2021/08/03/%E6%8A%80%E6%9C%AF/password/</id>
-    <published>2021-08-03T08:19:15.000Z</published>
-    <updated>2021-08-06T09:03:17.558Z</updated>
-    
-    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉，这个密码看着不太对，或许你可以找小胖问问。" data-whm="抱歉，这个文章不能被纠正，不过您还是能看看解密后的内容。">  <script id="hbeData" type="hbeData" data-hmacdigest="07f348863a8f7c4948c06e42257effb553371d022c045567e840f52aa649f2c7">10d79030e8222445804370796b90fca14b3382df4730eb0fe3a9f1aa6acbfdf977f308135c251cf4014cb9472e5eb4c7010efd08fb0e3bdf1ebef1844b47b7bbdce99f87d5af857ca0ff659bfd7ff8403889b6c438821c099230c528e1e072086db67c3268f0c3fbef4285ecdfb74d10c44a10a54b42bc087ce2562c8b1b0d82c747e40ef6687175228e1aa7de665ca0630685dfdfd49a11eb58a99d311c252752a333719030d038bb8d865dd3e440bff3cd209fe3ca3a26fb5772705760421ee28b997bb286ef46d1032c18074a8e24e512ac08393b5a726653fa86223193a5539e8c4d8564ac7fa85a6f3f02116cf7e2b674dbec6a405910487a566f27ae9b18378b5ed8c01b7c61b56275c5be315e58c7444615d493cd30730c3c61a7a71f4128d1e9c850b87fae08e09d3ebd95a2b211c652b80b48a27842f782b42ffbdbe1054ba0b9212370d4e73203dad1b139fd166e479233fce9476bd87b7a14f20b2a8e918d4f2ed2fe691d8141c2b7612abf06ed65a69be5694427ba799ce46365e260aa9048402664a9fbf5a8e1193f74cf73274fef4dc2eaecd50626c30c3f9320470316658acfed49341718cddb5ed2317540399a071f3ce4fcf500f1ea25e242173d8ca5dfc62d56028fe72f8055175a8575a417e6b857e964666673890bec27da80d17bf4a00193cf4f79d1230ee0b6c2bca1d4f931dfce6cf26e3654f047a4f1a04ed594439a6975c34964b285b788046af550152ecb01b3f9891bfa29a3d8535b19de20f2b1ed9719a1f2112f91fc87ec3a6ae57e81e7904501aaf696c52ce7352c9d5458dcb6e2fe1ad5378f4ff6d1d3cdd6b88c9f8faf37df21188ee292b35e0c34ae245dc1496bbd5887fd06a00ab672aeb79600431bb83a77257a2920c352781b4db22616270cc0f96d747f2879f7eb6581f08ef031d4260dcbc467194ab2d68d35ba739e0b0fc9edc510f33e374024bf98f99518f19f3ddc1c3bd25b8375c8b2f8f97f9f935e3ca2c7fc013cf2f879346b77d82e562c1c154ebd79eb59f8a3506fc4f40f70245ee0807525d1c9944d458607a9f6ff66e8f0f1012102d22de4ee405dfd6f2f024eebeb24acd9c3efd62feefb32d72b694d920e5b292345839751ef33dd5fb6e3b4d02e53a851ac5148685f46c0ecd9105b836f378f4c16d462c4b71a2d887f7f4f5e32b6d606a7d2bb8ac4638bedecaf2c6d8ad3e126bc82571149719c88c459dd4412e7f2af2047d7be2d63190c5e6dc409447ec653dee6e59fae43e1f5b67f69e3719947311f46b7dedec08e469fe3b76ff73a46f63e0151fb57e22e389e9a5547ba040d19a554d00bac2f55991dceecb8769e691cd2fff247647df3043d0defc8732bfd44c2cf8a7bbeb21295eed6ca5015a04560a6e8f363d2548faa032be4dd63c4238d5f25d9bc63ac425163ee0d6bc4eb177b7cd5c964dcfd84fa216c1e5101f894588a5c64305670a5d7f0921653afc126ab6d5f562dd5df28ba4fae3bb6c2aa637b5473978c9b3e99a686c03d8a63fe38d40d7bef6baa28246be1fb7bdd544c10fa89594accf06359b40bed3c567b005ae306589224f6e9a1c349cfb0613297fc2460c11421ecdaa1013faf8671830348338984e71023b98905b12a865ef23909ec738ea899c0a9c4d365e8f6b0a99427d0312637d4717b795a34a1868be5b6527038d24795f4173b354a081890dd03d66d5930e78d5708ada734981889f747046085321f4b156a839098021472d8416029c142b3ed3ae07fa8d519c3a69822ac89c76c21aba8fff8177439a526376eec5d89e593b9c064aec8f67fa98202e8a571a2f4b24b7a96c979c4f7ebb583f6475e9c6b6e715365eb6c89621f8621851eba77c2c9446358eb227bfeedf9d427d098693b94492d3dd40f324a6e6e51c98588c9d744f96ed3c0e773697f1ce3dd0c99a6c0e03c597c0a966552fc52e6dc7628a5cb0e6a807d19f84e11339cbb56624a44f2b4ca5a4edb9dd88146b529058117be77114648b0dda96f4b21c104ef446878ede5bb3c34481daaca4802856e11cfa7080977d38a3a492482097552ba6b39085d39da2a903f90ca82910c5dd6de72b8c713c0c6be11465212610a39b8582116b51cf0e9a2334c343b76c0978ad4eaa73a113a2c12b6be0793cdb98e8af100c85bcaa33a5fe57fead9d77ce0d91c65a4ae8b10291fdf5c0a83d666ca0e3642fcd1b71ad081fba51d13b9b06a2082b7ac7d7c7080348729fcf4cd1c729cbd0bb280e89eb1f5d7eca1932e1ca5e956f8919f5c731d56aa5446f0e815ed2a0a6f2bb628c11c5347d885bf38eec3453f</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-up">      <input class="hbe hbe-input-field hbe-input-field-up" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-up" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-up">密码hello</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-    
-    
-    <summary type="html">密码测试，密码hello。</summary>
-    
-    
-    
-    <category term="灌汤技术帖" scheme="http://example.com/categories/%E7%81%8C%E6%B1%A4%E6%8A%80%E6%9C%AF%E5%B8%96/"/>
     
     
     <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
