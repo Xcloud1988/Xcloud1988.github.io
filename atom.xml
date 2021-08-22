@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-21T00:55:57.515Z</updated>
+  <updated>2021-08-22T06:19:12.087Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>colortest</title>
+    <link href="http://example.com/2021/08/22/%E6%8A%80%E6%9C%AF/colortest/"/>
+    <id>http://example.com/2021/08/22/%E6%8A%80%E6%9C%AF/colortest/</id>
+    <published>2021-08-22T06:13:18.000Z</published>
+    <updated>2021-08-22T06:19:12.087Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong><font face="方正FW童趣POP体 简" color="#F19483" size="6">曙</font></strong><br><strong><font face="方正FW童趣POP体 简" color="#81C7D4" size="6">水</font></strong><br><strong><font face="方正FW童趣POP体 简" color="#91B493" size="6">薄青</font></strong></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="灌汤技术帖" scheme="http://example.com/categories/%E7%81%8C%E6%B1%A4%E6%8A%80%E6%9C%AF%E5%B8%96/"/>
+    
+    
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>TREE</title>
@@ -496,30 +520,6 @@
     <category term="下雨" scheme="http://example.com/tags/%E4%B8%8B%E9%9B%A8/"/>
     
     <category term="跑步" scheme="http://example.com/tags/%E8%B7%91%E6%AD%A5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>灯塔</title>
-    <link href="http://example.com/2021/08/03/%E6%96%87%E5%AD%A6/rain/"/>
-    <id>http://example.com/2021/08/03/%E6%96%87%E5%AD%A6/rain/</id>
-    <published>2021-08-03T14:04:35.000Z</published>
-    <updated>2021-08-06T08:57:58.766Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>雨滴打在窗台凉了湿润的风</p><p>风呼啸着，吵醒了熟睡的人</p><p>雨太大了</p><p>迷失的双眼</p><p>分不清白天黑夜</p><p>还好有橙色的路灯</p><p>像海边希望的灯塔</p><p>汹涌的浪啊，无边的海呀</p><p>或许你也没那么狰狞，可怕</p><p>只是少了阳光</p><p>来抚平你疼痛的伤口</p><p>那让我来帮你吹一吹</p><p>呼~呼~</p><p>听说这样</p><p>晚上睡得才会更安稳些</p><p><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/images/rain1.2zjissbgqfm0.png"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="超大杯奶茶文学" scheme="http://example.com/categories/%E8%B6%85%E5%A4%A7%E6%9D%AF%E5%A5%B6%E8%8C%B6%E6%96%87%E5%AD%A6/"/>
-    
-    
-    <category term="小诗" scheme="http://example.com/tags/%E5%B0%8F%E8%AF%97/"/>
     
   </entry>
   
