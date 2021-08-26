@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-23T06:18:35.756Z</updated>
+  <updated>2021-08-26T01:06:46.662Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>夏天的520，秋天的521</title>
-    <link href="http://example.com/2021/08/23/%E5%B0%8F%E8%83%96/chushu/"/>
-    <id>http://example.com/2021/08/23/%E5%B0%8F%E8%83%96/chushu/</id>
-    <published>2021-08-23T06:04:41.000Z</published>
-    <updated>2021-08-23T06:18:35.756Z</updated>
+    <title>文通炸鸡</title>
+    <link href="http://example.com/2021/08/25/%E5%B0%8F%E8%83%96/wentong/"/>
+    <id>http://example.com/2021/08/25/%E5%B0%8F%E8%83%96/wentong/</id>
+    <published>2021-08-24T23:04:41.000Z</published>
+    <updated>2021-08-26T01:06:46.662Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>心心念念的文通，和小胖终于来了！<br>整体味道还可，绝对是好吃的。</p><p><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/20210807/IMG_0544.190xhwqulo74.jpg"><br>冰冰小熊：<br><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/20210807/IMG_0546.yq7opissm80.jpg"><br><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/20210807/IMG_0545.6t42bv95bws0.jpg"><br>漏奶华：<br><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/20210807/%E5%96%B5%E5%BD%B1-%E6%88%91%E7%9A%84%E5%9B%BE%E7%89%871.22wqxnu41y00.gif"><br>没想到吧，吃完文通的我们又去thank u mom了，是喜欢的炸鸡的口味，值得多吃几个！<br><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/20210807/IMG_0548.1tanasqn3stc.jpg"></p>]]></content>
     
     
       
@@ -37,8 +37,6 @@
     
     
     <category term="小胖" scheme="http://example.com/tags/%E5%B0%8F%E8%83%96/"/>
-    
-    <category term="咖啡" scheme="http://example.com/tags/%E5%92%96%E5%95%A1/"/>
     
   </entry>
   
