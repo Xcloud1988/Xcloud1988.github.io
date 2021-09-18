@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-17T12:47:42.737Z</updated>
+  <updated>2021-09-18T12:19:02.591Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>草东《大风吹》</title>
+    <link href="http://example.com/2021/09/18/%E6%97%A5%E5%B8%B8/%E5%A4%A7%E9%A3%8E%E5%90%B9/"/>
+    <id>http://example.com/2021/09/18/%E6%97%A5%E5%B8%B8/%E5%A4%A7%E9%A3%8E%E5%90%B9/</id>
+    <published>2021-09-18T14:03:50.000Z</published>
+    <updated>2021-09-18T12:19:02.591Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe src="//player.bilibili.com/player.html?aid=420575067&bvid=BV15341127MF&cid=409986134&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="95%" height="330"> </iframe><p>最近喜欢的一个乐队，草东没有派对。<br>第一张专辑《丑奴儿》确实让我挺意外的，这首大风吹也让我意外的喜欢。<br>《山海》也好经典。<br>期待……</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="小言的日常生活" scheme="http://example.com/categories/%E5%B0%8F%E8%A8%80%E7%9A%84%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="音乐" scheme="http://example.com/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+    <category term="心情" scheme="http://example.com/tags/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
   
   <entry>
     <title>生日小诗</title>
@@ -469,30 +495,6 @@
     <updated>2021-08-07T11:49:14.496Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="98%" height="86" src="//music.163.com/outchain/player?type=2&id=1850225082&auto=0&height=66"></iframe>小胖去吃夜宵了。<p>一个人回寝室————数星星。</p><p><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/20210805/%E6%98%9F%E6%98%9F.4bs4qvthmz60.png"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="小言的日常生活" scheme="http://example.com/categories/%E5%B0%8F%E8%A8%80%E7%9A%84%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/"/>
-    
-    
-    <category term="心情" scheme="http://example.com/tags/%E5%BF%83%E6%83%85/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>热烈庆祝小破店正式开张！！！</title>
-    <link href="http://example.com/2021/08/04/%E6%97%A5%E5%B8%B8/open/"/>
-    <id>http://example.com/2021/08/04/%E6%97%A5%E5%B8%B8/open/</id>
-    <published>2021-08-04T14:09:43.000Z</published>
-    <updated>2021-08-23T01:48:34.210Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="98%" height="86" src="//music.163.com/outchain/player?type=2&id=333750&auto=0&height=66"></iframe><br><p>​        经过两天的不断努力和奋斗，小胖同学的小破店终于顺利开张了！</p><p>​        在这辞旧迎新的时刻，我们对广大亲朋好友的到来表达诚挚的感谢，也希望大家能在这爆竹声中，携好气运，度美好盛夜，和小胖杂货铺一起，共创灿烂辉煌的未来！！</p><p>​        这也是属于我的第一个小破店，也是我梦想的起点，特以我女朋友之名，取为小胖杂货铺。希望这个杂货铺可以包含我的日常，我的感想，我的灵感，我的教学以及我和小胖的点滴。在之后的日子里，我会不断进货，不断充实这个小店，多年之后，我相信它会不断壮大，梦想也会一步一步实现。</p>]]></content>
     
     
       
