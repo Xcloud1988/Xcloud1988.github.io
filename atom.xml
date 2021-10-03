@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-18T12:19:02.591Z</updated>
+  <updated>2021-10-03T00:52:29.430Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>小胖的生日礼物</title>
+    <link href="http://example.com/2021/10/02/%E5%B0%8F%E8%83%96/%E5%B0%8F%E8%83%96%E7%9A%84%E7%94%9F%E6%97%A5%E7%A4%BC%E7%89%A9/"/>
+    <id>http://example.com/2021/10/02/%E5%B0%8F%E8%83%96/%E5%B0%8F%E8%83%96%E7%9A%84%E7%94%9F%E6%97%A5%E7%A4%BC%E7%89%A9/</id>
+    <published>2021-10-02T14:49:34.000Z</published>
+    <updated>2021-10-03T00:52:29.430Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="小胖同学的故事" scheme="http://example.com/categories/%E5%B0%8F%E8%83%96%E5%90%8C%E5%AD%A6%E7%9A%84%E6%95%85%E4%BA%8B/"/>
+    
+    
+    <category term="小胖" scheme="http://example.com/tags/%E5%B0%8F%E8%83%96/"/>
+    
+  </entry>
   
   <entry>
     <title>草东《大风吹》</title>
@@ -484,30 +508,6 @@
     <category term="心情" scheme="http://example.com/tags/%E5%BF%83%E6%83%85/"/>
     
     <category term="调整" scheme="http://example.com/tags/%E8%B0%83%E6%95%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>数星星</title>
-    <link href="http://example.com/2021/08/05/%E6%97%A5%E5%B8%B8/star/"/>
-    <id>http://example.com/2021/08/05/%E6%97%A5%E5%B8%B8/star/</id>
-    <published>2021-08-05T12:51:14.000Z</published>
-    <updated>2021-08-07T11:49:14.496Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="98%" height="86" src="//music.163.com/outchain/player?type=2&id=1850225082&auto=0&height=66"></iframe>小胖去吃夜宵了。<p>一个人回寝室————数星星。</p><p><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/20210805/%E6%98%9F%E6%98%9F.4bs4qvthmz60.png"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="小言的日常生活" scheme="http://example.com/categories/%E5%B0%8F%E8%A8%80%E7%9A%84%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/"/>
-    
-    
-    <category term="心情" scheme="http://example.com/tags/%E5%BF%83%E6%83%85/"/>
     
   </entry>
   
