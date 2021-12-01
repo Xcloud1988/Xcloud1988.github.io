@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-12-01T12:20:49.362Z</updated>
+  <updated>2021-12-01T12:23:19.133Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>实习路上的银河赴约</title>
+    <title>实习路上的赴约</title>
     <link href="http://example.com/2021/12/01/%E6%97%A5%E5%B8%B8/%E5%AE%9E%E4%B9%A0%E4%B9%8B%E8%B7%AF%E4%B8%8A/"/>
     <id>http://example.com/2021/12/01/%E6%97%A5%E5%B8%B8/%E5%AE%9E%E4%B9%A0%E4%B9%8B%E8%B7%AF%E4%B8%8A/</id>
     <published>2021-12-01T12:08:36.000Z</published>
-    <updated>2021-12-01T12:20:49.362Z</updated>
+    <updated>2021-12-01T12:23:19.133Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>        <div id="aplayer-ZqVYziCl" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-ZqVYziCl"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "晴天",              author: "周杰伦",              url: "http://www.ytmp3.cn/down/73971.mp3",              pic: "http://home.ustc.edu.cn/~mmmwhy/jay.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>2021年11月，小言在仓中的实习结束了。</p><p>这是他极其珍惜的一段美好。</p><p>他想留下仓中所遇到的所有可爱的人的痕迹。</p><p>希望来到这里的你可以留下你的回忆或你的美好祝愿。</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>        <div id="aplayer-lClruJiS" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-lClruJiS"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "晴天",              author: "周杰伦",              url: "http://www.ytmp3.cn/down/73971.mp3",              pic: "http://home.ustc.edu.cn/~mmmwhy/jay.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>2021年11月，小言在仓中的实习结束了。</p><p>这是他极其珍惜的一段美好。</p><p>他想留下仓中所遇到的所有可爱的人的痕迹。</p><p>希望来到这里的你可以留下你的回忆或你的美好祝愿。</p>]]></content>
     
     
       
