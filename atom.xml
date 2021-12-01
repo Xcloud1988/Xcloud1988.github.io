@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-11-15T08:22:10.055Z</updated>
+  <updated>2021-12-01T12:20:49.362Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>实习路上的银河赴约</title>
+    <link href="http://example.com/2021/12/01/%E6%97%A5%E5%B8%B8/%E5%AE%9E%E4%B9%A0%E4%B9%8B%E8%B7%AF%E4%B8%8A/"/>
+    <id>http://example.com/2021/12/01/%E6%97%A5%E5%B8%B8/%E5%AE%9E%E4%B9%A0%E4%B9%8B%E8%B7%AF%E4%B8%8A/</id>
+    <published>2021-12-01T12:08:36.000Z</published>
+    <updated>2021-12-01T12:20:49.362Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>        <div id="aplayer-ZqVYziCl" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">            <pre class="aplayer-lrc-content"></pre>        </div>        <script>          var ap = new APlayer({            element: document.getElementById("aplayer-ZqVYziCl"),            narrow: false,            autoplay: false,            showlrc: false,            music: {              title: "晴天",              author: "周杰伦",              url: "http://www.ytmp3.cn/down/73971.mp3",              pic: "http://home.ustc.edu.cn/~mmmwhy/jay.jpg",              lrc: ""            }          });          window.aplayers || (window.aplayers = []);          window.aplayers.push(ap);        </script><p>2021年11月，小言在仓中的实习结束了。</p><p>这是他极其珍惜的一段美好。</p><p>他想留下仓中所遇到的所有可爱的人的痕迹。</p><p>希望来到这里的你可以留下你的回忆或你的美好祝愿。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="某年某月某人" scheme="http://example.com/categories/%E6%9F%90%E5%B9%B4%E6%9F%90%E6%9C%88%E6%9F%90%E4%BA%BA/"/>
+    
+    
+    <category term="实习" scheme="http://example.com/tags/%E5%AE%9E%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>盛宴</title>
@@ -69,9 +93,9 @@
     <link href="http://example.com/2021/11/12/%E8%AF%BE%E4%BB%B6/4.3%E7%9B%B8%E4%BC%BC%E4%B8%89%E8%A7%92%E5%BD%A2/"/>
     <id>http://example.com/2021/11/12/%E8%AF%BE%E4%BB%B6/4.3%E7%9B%B8%E4%BC%BC%E4%B8%89%E8%A7%92%E5%BD%A2/</id>
     <published>2021-11-12T02:35:14.000Z</published>
-    <updated>2021-11-17T00:22:32.576Z</updated>
+    <updated>2021-11-17T03:11:12.524Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><!-- toc --><ul><li><a href="#%E4%B8%80-%E6%95%99%E5%AD%A6%E7%9B%AE%E6%A0%87">一、教学目标</a></li><li><a href="#%E4%BA%8C-%E6%95%99%E5%AD%A6%E9%87%8D%E9%9A%BE%E7%82%B9">二、 教学重难点</a></li><li><a href="#%E4%B8%89-%E6%95%99%E5%AD%A6%E8%BF%87%E7%A8%8B">三、教学过程</a><ul><li><a href="#%E4%B8%80%E5%AF%BC%E5%85%A5-2min">（一）导入 （2min）</a></li><li><a href="#%E4%BA%8C%E5%90%88%E4%BD%9C%E5%AD%A6%E4%B9%A0">（二）合作学习</a></li><li><a href="#%E4%B8%89%E5%AE%9A%E4%B9%89%E7%BB%99%E5%87%BA">（三）定义给出</a></li><li><a href="#%E5%9B%9B%E6%80%A7%E8%B4%A8%E7%BB%99%E5%87%BA">（四）性质给出</a></li></ul></li><li><a href="#%E5%9B%9B-%E6%9D%BF%E4%B9%A6">四、板书</a></li><li><a href="#%E4%BA%94-%E8%AF%BE%E4%BB%B6">五、 课件</a></li><li><a href="#%E5%85%AD-%E6%95%99%E6%9D%90">六、教材</a></li></ul><!-- tocstop --><h4><span id="一-教学目标">一、教学目标</span></h4><p>1.了解相似三角形的概念，会表示两个三角形相似</p><p>2.能运用相似三角形的概念判断两个三角形相似</p><p>3.理解“相似三角形的对应角相等，对应边成比例”的性质</p><h4><span id="二-教学重难点">二、 教学重难点</span></h4><p>1.本节教学的重点是相似三角形的概念</p><p>2.在具体的图形中找出相似三角形的对应边,并写出比例式,需要学生具有一定的分辨能力,是本节教学的难点。</p><h4><span id="三-教学过程">三、教学过程</span></h4><h5><span id="一导入-2min">（一）导入 （2min）</span></h5><blockquote><p><strong>师：上课！同学们好！</strong></p><p>生：老师好！</p><p>师：</p></blockquote><h5><span id="二合作学习">（二）合作学习</span></h5><h5><span id="三定义给出">（三）定义给出</span></h5><p>表示符号</p><p>几何语言</p><p>例1（叫同学起来直接回答）</p><p>​       自己板书</p><h5><span id="四性质给出">（四）性质给出</span></h5><p>几何语言</p><p>相似比的概念（注意顺序，谁在前，谁在后）</p><p>问题2 判断命题正确性</p><h4><span id="四-板书">四、板书</span></h4><h4><span id="五-课件">五、 课件</span></h4><h4><span id="六-教材">六、教材</span></h4><p><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/xxx/1.7k5ktlc3pag0.png"><br><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/xxx/2.63ptr583euc0.png"><br><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/xxx/4.582hzd232uw0.png"><br><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/xxx/3.554uij3vgwk0.png"></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><!-- toc --><ul><li><a href="#%E4%B8%80-%E6%95%99%E5%AD%A6%E7%9B%AE%E6%A0%87">一、教学目标</a></li><li><a href="#%E4%BA%8C-%E6%95%99%E5%AD%A6%E9%87%8D%E9%9A%BE%E7%82%B9">二、 教学重难点</a></li><li><a href="#%E4%B8%89-%E6%95%99%E5%AD%A6%E8%BF%87%E7%A8%8B">三、教学过程</a><ul><li><a href="#%E4%B8%80%E5%AF%BC%E5%85%A5-2min">（一）导入 （2min）</a></li><li><a href="#%E4%BA%8C%E5%90%88%E4%BD%9C%E5%AD%A6%E4%B9%A05min">（二）合作学习（5min）</a></li><li><a href="#%E4%B8%89%E5%AE%9A%E4%B9%89%E7%BB%99%E5%87%BA">（三）定义给出</a></li><li><a href="#%E5%9B%9B%E6%80%A7%E8%B4%A8%E7%BB%99%E5%87%BA">（四）性质给出</a></li></ul></li><li><a href="#%E5%9B%9B-%E6%9D%BF%E4%B9%A6">四、板书</a></li><li><a href="#%E4%BA%94-%E8%AF%BE%E4%BB%B6">五、 课件</a></li><li><a href="#%E5%85%AD-%E6%95%99%E6%9D%90">六、教材</a></li></ul><!-- tocstop --><h4><span id="一-教学目标">一、教学目标</span></h4><p>1.了解相似三角形的概念，会表示两个三角形相似</p><p>2.能运用相似三角形的概念判断两个三角形相似</p><p>3.理解“相似三角形的对应角相等，对应边成比例”的性质</p><h4><span id="二-教学重难点">二、 教学重难点</span></h4><p>1.本节教学的重点是相似三角形的概念</p><p>2.在具体的图形中找出相似三角形的对应边,并写出比例式,需要学生具有一定的分辨能力,是本节教学的难点。</p><h4><span id="三-教学过程">三、教学过程</span></h4><h5><span id="一导入-2min">（一）导入 （2min）</span></h5><blockquote><p><strong>师：上课之前啊，老师要给大家布置一个隐藏任务。完成任务可以获得老师准备的精美小礼品。</strong></p><p><strong>师：听好了，老师只说一遍。这节课老师会放出许多三角形的模型，大家要做的就是在白纸上把老师说到过的模型画上去。如果最后这节课结束后能够集齐所有模型，就能获得精美小礼品一份。</strong></p><p><strong>师：好！上课！同学们好！</strong></p><p>生：老师好！</p><p><strong>师：今天啊我们就要正式进入相似三角形的学习。</strong></p><p><strong>师：首先我们先来回顾一下相似图形的概念。我们把具有相同形状的图形称为相似图形。来看这两幅地图，他们的形状相同，大小。</strong></p><p>生：不同。</p><p><strong>师：对，那我们可以把两张地图的三个城市连起来，就变成了两个三角形。那这两个三角形的形状</strong></p><p>生：相同。</p><p><strong>师：大小。</strong></p><p>生：不同。</p><p><strong>师：很好，这就是我们今天需要所学的相似三角形。</strong></p><p><strong>师：那我们要如何定义这两个三角形呢。首先让我们来探究一下这两个三角形的特征。</strong></p></blockquote><h5><span id="二合作学习5min">（二）合作学习（5min）</span></h5><blockquote><p><strong>师：大家把数翻到127页，大家先来量一量图4-12里面两个三角形各内角的度数，和边长。然后思考一下下面两个问题。</strong></p><p>。。。</p><p><strong>师：好，我看大家都做的都差不多了。来，许超。你量出的是多少和边长是？</strong></p><p>生：</p><p><strong>师：好。于是我们就把对应角相等，对应边成比例的两个三角形，叫做相似三角形。</strong></p><p><strong>师：一般啊，我们也用相似符号∽来表示，读作”相似于“，比如图里面的△ABC和△A′B′C′相似，我们就可以写成这样。这个符号和什么的符号有点像啊</strong></p><p>生：全等。</p><p><strong>师：对，和全等一样。在表示三角形相似时, 对应的字母写在对应的位置上。另外，其实他们的用法也是类似的。我们来看看相似的几何语言要怎么写。</strong></p><p><strong>师：首先，我们也是要给出条件。第一是对应角相等，所以 因为 ∠A=</strong></p><p>生：∠A’</p><p><strong>师：∠B=∠B‘，∠C=∠C’。对应边成比例。所以,AB比A’B’等于BC比B’C’等于AC比A’C’,所以△ABC∽△A′B′C′</strong></p><p>师：好，我们来看看这题。△ADE与 <strong>△</strong>ABC相似,根据图形分别说出两个三角形的对应角和对应边成比例的比例式</p><p>师：第一个。蔡杭玉。</p><p>生：……</p><p>师：很不错。好，这时候啊，打击要注意咯，第一个模型出来了，大家看这个模型像什么啊。</p><p>师：像一个A，我们就把它叫做A字形。</p><p>师：好，第二题。</p><p>。。。</p><p>师：这个是第二个模型，它和a有点相似，不过把里面的小三角形反了过来，于是我们把它叫做反A性d</p></blockquote><h5><span id="三定义给出">（三）定义给出</span></h5><p>表示符号</p><p>几何语言</p><p>例1（叫同学起来直接回答）</p><p>​       自己板书</p><h5><span id="四性质给出">（四）性质给出</span></h5><p>几何语言</p><p>相似比的概念（注意顺序，谁在前，谁在后）</p><p>问题2 判断命题正确性</p><h4><span id="四-板书">四、板书</span></h4><h4><span id="五-课件">五、 课件</span></h4><h4><span id="六-教材">六、教材</span></h4><p><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/xxx/1.7k5ktlc3pag0.png"><br><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/xxx/2.63ptr583euc0.png"><br><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/xxx/4.582hzd232uw0.png"><br><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/xxx/3.554uij3vgwk0.png"></p>]]></content>
     
     
       
@@ -481,30 +505,6 @@
     
     
     <category term="小胖" scheme="http://example.com/tags/%E5%B0%8F%E8%83%96/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>汤响松风</title>
-    <link href="http://example.com/2021/08/15/%E6%97%A5%E5%B8%B8/%E6%B1%A4%E5%93%8D%E6%9D%BE%E9%A3%8E/"/>
-    <id>http://example.com/2021/08/15/%E6%97%A5%E5%B8%B8/%E6%B1%A4%E5%93%8D%E6%9D%BE%E9%A3%8E/</id>
-    <published>2021-08-15T07:42:16.000Z</published>
-    <updated>2021-08-15T10:30:56.068Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="98%" height="86" src="//music.163.com/outchain/player?type=2&id=1332217066&auto=1&height=66"></iframe><h3><span id="品令茶词">品令·茶词</span></h3><h6><span id="黄庭坚宋">黄庭坚[宋]</span></h6><p>凤舞团团饼。恨分破、教孤令。金渠体净，只轮慢碾，玉尘光莹。汤响松风，早减了、二分酒病。<br>味浓香永。醉乡路、成佳境。恰如灯下，故人万里，归来对影。口不能言，心下快活自省。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="小言的日常生活" scheme="http://example.com/categories/%E5%B0%8F%E8%A8%80%E7%9A%84%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/"/>
-    
-    
-    <category term="小诗" scheme="http://example.com/tags/%E5%B0%8F%E8%AF%97/"/>
     
   </entry>
   
