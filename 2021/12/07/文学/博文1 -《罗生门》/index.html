@@ -225,7 +225,7 @@
     
     
         <span class="article-min2read article-meta-item">
-            <i class="fas fa-clock"></i>&nbsp;<span>8 分钟</span>
+            <i class="fas fa-clock"></i>&nbsp;<span>9 分钟</span>
         </span>
     
     
@@ -274,6 +274,7 @@
 
 <p><font face="方正FW童趣POP体 简" color="#CC543A" size="4">     8.密林中</font></p>
 <p><strong><font face="宋体" color="#1C1C1C" size="3"> &ensp;&ensp;『 对我这样的窝囊废，想必大慈大悲的观世音菩萨也撒手不管了。可是，我杀死了丈夫，我失身于强盗，我到底怎么办才好啊！我到底——我——（激烈抽泣）。 』</font></strong><br><br></p>
+<p>黑泽明导演的《 罗生门 》就是以《罗生门》和《密林中》为本拍的。刚读玩《密林中》时，说实话对故事的理解并非完全彻底，读到最后还是有一头雾水的感觉，是谁拔了那把短剑，和尚和樵夫又代表着什么。直到看完这部电影，我对这篇文章又有了新的认识，电影中的人物演的也极其深刻，黑泽明导演最后还穿插了《罗生门》的片段，但最后还是以人之善结尾，也是对未来对人之善的期待和呼吁吧。</p>
 <!-- 9.矿车 -->
 
 <p><font face="方正FW童趣POP体 简" color="#CC543A" size="4">     9.矿车</font></p>
@@ -328,81 +329,45 @@
 
         
             <div class="comment-container">
-                <div class="comments-container">
-    <div id="comment-anchor"></div>
-    <div class="comment-area-title">
-        <i class="fas fa-comments">&nbsp;评论</i>
-    </div>
-    
+                if (hexo-config('comment.enable') == true && hexo-config('comment.use') != "") {
+  if (hexo-config('comment.use') == "valine") {
+    @require "./valine.styl";
 
-        
-            
-    <div class="valine-container">
-        <script 
-                src="//cdn.jsdelivr.net/npm/valine@latest/dist/Valine.min.js"></script>
-        <div id="vcomments"></div>
-        <script >
-            function loadValine() {
-                new Valine({
-                    el: '#vcomments',
-                    appId: 'BMRmS1tv7y1WL8PtlnveHJCh-gzGzoHsz',
-                    appKey: 'Ok0IKjned7dGPUOduiJIOkOn',
-                    meta: ['nick', 'mail', 'link'],
-                    avatar: 'wavatar',
-                    enableQQ: true,
-                    placeholder: 'Just go go',
-                    lang: 'zh-CN'.toLowerCase()
-                });
+  } else if (hexo-config('comment.use') == "gitalk") {
+    @require "./gitalk.styl";
 
-                function getAuthor(language) {
-                    switch (language) {
-                        case 'en':
-                            return 'Author';
-                        case 'zh-CN':
-                            return '博主';
-                        default:
-                            return 'Master';
-                    }
-                }
+  } else if (hexo-config('comment.use') == "twikoo") {
+    @require "./twikoo.styl";
+  }
+}
 
-                // Add "Author" identify
-                const getValineDomTimer = setInterval(() => {
-                    const vcards = document.querySelectorAll('#vcomments .vcards .vcard');
-                    if (vcards.length > 0) {
-                        let author = '言小午';
+.comments-container {
+  display: inline-block;
+  margin-top: $component-spacing-value;
+  width: 100%;
 
-                        if (author) {
-                            for (let vcard of vcards) {
-                                const vnick_dom = vcard.querySelector('.vhead .vnick');
-                                const vnick = vnick_dom.innerHTML;
-                                if (vnick === author) {
-                                    vnick_dom.innerHTML = `${vnick} <span class="author">${getAuthor(KEEP.hexo_config.language)}</span>`
-                                }
-                            }
-                        }
-                        clearInterval(getValineDomTimer);
-                    } else {
-                        clearInterval(getValineDomTimer);
-                    }
-                }, 2000);
-            }
+  #comment-anchor {
+    width: 100%;
+    height: 10px;
+  }
 
-            if ('false') {
-                const loadValineTimeout = setTimeout(() => {
-                    loadValine();
-                    clearTimeout(loadValineTimeout);
-                }, 1000);
-            } else {
-                window.addEventListener('DOMContentLoaded', loadValine);
-            }
-        </script>
-    </div>
+  .comment-area-title {
+    width: 100%;
+    margin: 10px 0;
+    font-size: 1.38rem;
+    color: var(--default-text-color);
 
+    i {
+      color: var(--default-text-color);
+    }
 
+    +keep-tablet() {
+      margin: 5px 0;
+      font-size: 1.2rem;
+    }
+  }
 
-        
-    
-</div>
+}
 
             </div>
         
