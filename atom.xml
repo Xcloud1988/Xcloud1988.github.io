@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-12-07T14:33:28.428Z</updated>
+  <updated>2022-04-11T16:57:33.902Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,54 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>久违的更新</title>
+    <link href="http://example.com/2022/04/12/%E6%97%A5%E5%B8%B8/%E4%B9%85%E8%BF%9D%E7%9A%84%E6%9B%B4%E6%96%B0/"/>
+    <id>http://example.com/2022/04/12/%E6%97%A5%E5%B8%B8/%E4%B9%85%E8%BF%9D%E7%9A%84%E6%9B%B4%E6%96%B0/</id>
+    <published>2022-04-11T16:31:16.000Z</published>
+    <updated>2022-04-11T16:57:33.902Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>隔了好久好久，终于更新了。<br> 之后不会再脱更这么久了，保证！<br> 之后应该都会周更一次，希望坚持住！！<br> 今天的话也没啥主题，那就乱七八糟闲扯几句吧。</p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1870390705&auto=0&height=66"></iframe> 好喜欢夏天，终于快到了！ 喜欢开着空调吃西瓜！喜欢吃着西瓜看小森林！ 来一首《夏日友晴天》，先来感受一下这飒爽的夏风！  <p> 这些天还坚持健身，努力努力，减肥减肥。</p><p> 疫情好严重，好像出去吃饭。还有我新买的pad，它已经在上海停了10+天了，气！不过都要注意安全，希望早点过去.</p><p> 明天要开始调整作息，不能10点起床了，气！</p><p> 好难的毕业论文，20号之前一定要把它搞定！！！</p><p> 噢，这些天还在练字噢！希望自己的字能变漂亮！行楷噢！</p><p> 这些天天气也好好，前几天出门晒了一圈太阳，没好意思去草坪上坐，你说别人都是一圈人，我孤零零还是有些违和感，不过好喜欢被草地包裹的感觉，下次要去坐坐！</p><p> 4月会比较关键，希望万事顺利！！</p><p> 今天就到这吧，准备睡觉了，晚安！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="小言的日常生活" scheme="http://example.com/categories/%E5%B0%8F%E8%A8%80%E7%9A%84%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>提拉米苏</title>
+    <link href="http://example.com/2022/01/12/%E6%97%A5%E5%B8%B8/%E6%8F%90%E6%8B%89%E7%B1%B3%E8%8B%8F/"/>
+    <id>http://example.com/2022/01/12/%E6%97%A5%E5%B8%B8/%E6%8F%90%E6%8B%89%E7%B1%B3%E8%8B%8F/</id>
+    <published>2022-01-12T07:42:16.000Z</published>
+    <updated>2022-01-19T05:56:20.745Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>1.炸面糊<br>3个蛋黄+    60g糖搅拌+两小勺酒  隔水加热<br>2.奶酪糊<br>马斯卡彭奶酪250g+扎面糊+酒2小勺<br>3.打发奶油<br>200ml+奶酪糊<br>4.手指饼干s</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="小言的日常生活" scheme="http://example.com/categories/%E5%B0%8F%E8%A8%80%E7%9A%84%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="美食" scheme="http://example.com/tags/%E7%BE%8E%E9%A3%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>博文 -《茶，汤和好天气》</title>
@@ -457,54 +505,6 @@
     <category term="小诗" scheme="http://example.com/tags/%E5%B0%8F%E8%AF%97/"/>
     
     <category term="小文" scheme="http://example.com/tags/%E5%B0%8F%E6%96%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>文通炸鸡</title>
-    <link href="http://example.com/2021/08/25/%E5%B0%8F%E8%83%96/wentong/"/>
-    <id>http://example.com/2021/08/25/%E5%B0%8F%E8%83%96/wentong/</id>
-    <published>2021-08-24T23:04:41.000Z</published>
-    <updated>2021-08-26T13:22:14.751Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>心心念念的文通，和小胖终于来了！<br>整体味道还可，绝对是好吃的。</p><p><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/20210807/IMG_0544.190xhwqulo74.jpg"><br>冰冰小熊：<br><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/20210807/IMG_0546.yq7opissm80.jpg"><br><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/20210807/IMG_0545.6t42bv95bws0.jpg"><br>漏奶华：<br><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/20210807/%E5%96%B5%E5%BD%B1-%E6%88%91%E7%9A%84%E5%9B%BE%E7%89%872.mqqsjg70qb4.gif"><br>没想到吧，吃完文通的我们又去thank u mom了，是喜欢的炸鸡口感，值得多吃几个！<br><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/20210807/IMG_0548.1tanasqn3stc.jpg"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="小胖同学的故事" scheme="http://example.com/categories/%E5%B0%8F%E8%83%96%E5%90%8C%E5%AD%A6%E7%9A%84%E6%95%85%E4%BA%8B/"/>
-    
-    
-    <category term="小胖" scheme="http://example.com/tags/%E5%B0%8F%E8%83%96/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>colortest</title>
-    <link href="http://example.com/2021/08/22/%E6%8A%80%E6%9C%AF/colortest/"/>
-    <id>http://example.com/2021/08/22/%E6%8A%80%E6%9C%AF/colortest/</id>
-    <published>2021-08-22T06:13:18.000Z</published>
-    <updated>2021-10-03T08:24:45.588Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong><font face="方正FW童趣POP体 简" color="#91989F" size="6">银鼠</font></strong><br><strong><font face="方正FW童趣POP体 简" color="#DAC9A6" size="6">岛之子</font></strong><br><strong><font face="方正FW童趣POP体 简" color="#EFBB24" size="6">鬱金</font></strong><br><strong><font face="方正FW童趣POP体 简" color="#F9BF45" size="6">玉子</font></strong><br><strong><font face="方正FW童趣POP体 简" color="#F596AA" size="6">桃</font></strong><br><strong><font face="方正FW童趣POP体 简" color="#FB9966" size="6">深支子</font></strong><br><strong><font face="方正FW童趣POP体 简" color="#F19483" size="6">曙</font></strong><br><strong><font face="方正FW童趣POP体 简" color="#F17C67" size="6">珊瑚朱</font></strong><br><strong><font face="方正FW童趣POP体 简" color="#81C7D4" size="6">水</font></strong><br><strong><font face="方正FW童趣POP体 简" color="#0D5661" size="6">蓝</font></strong><br><strong><font face="方正FW童趣POP体 简" color="#91B493" size="6">薄青</font></strong><br><strong><font face="方正FW童趣POP体 简" color="#91AD70" size="6">柳染</font></strong><br><strong><font face="方正FW童趣POP体 简" color="#86C166" size="6">苗</font></strong><br><strong><font face="方正FW童趣POP体 简" color="#516E41" size="6">青丹</font></strong><br><strong><font face="方正FW童趣POP体 简" color="#A8497A" size="6">梅紫</font></strong><br><strong><font face="方正FW童趣POP体 简" color="#9F353A" size="6">燕脂</font></strong><br><strong><font face="方正FW童趣POP体 简" color="#994639" size="6">红鸢色</font></strong></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="灌汤技术帖" scheme="http://example.com/categories/%E7%81%8C%E6%B1%A4%E6%8A%80%E6%9C%AF%E5%B8%96/"/>
-    
-    
-    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
