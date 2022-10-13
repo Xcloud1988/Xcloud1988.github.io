@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-04-11T17:03:28.660Z</updated>
+  <updated>2022-10-13T11:29:14.603Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日子</title>
+    <link href="http://example.com/2022/10/13/%E6%96%87%E5%AD%A6/%E6%97%A5%E5%AD%90/"/>
+    <id>http://example.com/2022/10/13/%E6%96%87%E5%AD%A6/%E6%97%A5%E5%AD%90/</id>
+    <published>2022-10-13T11:22:47.000Z</published>
+    <updated>2022-10-13T11:29:14.603Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong><font face="方正FW童趣POP体 简" color="#91B493" size="6">日子</font></strong> - <strong><font face="方正FW童趣POP体 简" size="4">言小午</font></strong></p><p><img lazyload src="/images/loading.svg" data-src="https://cdn.jsdelivr.net/gh/Xcloud1988/Pix@master/images/rain1.2zjissbgqfm0.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="超大杯奶茶文学" scheme="http://example.com/categories/%E8%B6%85%E5%A4%A7%E6%9D%AF%E5%A5%B6%E8%8C%B6%E6%96%87%E5%AD%A6/"/>
+    
+    
+    <category term="小诗" scheme="http://example.com/tags/%E5%B0%8F%E8%AF%97/"/>
+    
+  </entry>
   
   <entry>
     <title>久违的更新</title>
@@ -475,34 +499,6 @@
     
     
     <category term="小诗" scheme="http://example.com/tags/%E5%B0%8F%E8%AF%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>好吃</title>
-    <link href="http://example.com/2021/08/19/%E6%96%87%E5%AD%A6/%E5%A5%BD%E5%90%83/"/>
-    <id>http://example.com/2021/08/19/%E6%96%87%E5%AD%A6/%E5%A5%BD%E5%90%83/</id>
-    <published>2021-08-19T13:26:36.000Z</published>
-    <updated>2021-11-12T05:50:46.258Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p><strong><font face="方正FW童趣POP体 简" color="#F19483" size="6">好吃</font></strong>&ensp;<font face="方正FW童趣POP体 简" color="#828282" size="4">-     木心</font><br> 早晨扒了两碗稀饭<br> 到十点钟下课<br> 肚子饿得咕噜噜<br> 派听差去校门口卖侉饼<br> 加一个铜元麻油辣酱醋<br> 蘸着吃得又香又辣又酸<br> 比山珍海味还鲜美点饥<br> 实在特别好吃<br> 未必出于饿极了的缘故吧<br> ~~~~~~~<br> 两年前就读到过这首诗，那时便影响深刻，今日再次读到，依旧喜欢。<br> 简单、普通又那么真实。<br> 高中时候点煎饼，总喜欢多加一个蛋，就会觉得它会变得更好吃。确实，那时候是这么认为的。现在也会点煎饼，有时照样两个蛋，也好吃，但多多少少没了那点味道。<br> 有时候，好吃的也不一定一定是好吃的，但那时的你会觉得它是好吃的。特定的时间、特定的地点、和特定的人发生的特定的故事，让吃的带上了特定的味道。<br> 每每回家，也总喜欢把家附近的小店吃上一遍，他们或许说不上有多少多少好吃，但菜里却有其他地方没有的味道，多加了的那一味——“回忆”。<br> 美食确实容易让人留下记忆，从大到小，凡是和吃的沾边的，我很难忘记，不管是好吃的，还是不好吃的，我总能记住。真的能记住吗？或许也只不过是特定的时间、特定的地点、和特定的人发生的特定的故事罢。<br> 每一个故事都是鲜活的，每一段记忆都是”好吃”的。<br> 简单、普通又那么真实。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="超大杯奶茶文学" scheme="http://example.com/categories/%E8%B6%85%E5%A4%A7%E6%9D%AF%E5%A5%B6%E8%8C%B6%E6%96%87%E5%AD%A6/"/>
-    
-    
-    <category term="小诗" scheme="http://example.com/tags/%E5%B0%8F%E8%AF%97/"/>
-    
-    <category term="木心" scheme="http://example.com/tags/%E6%9C%A8%E5%BF%83/"/>
-    
-    <category term="小文" scheme="http://example.com/tags/%E5%B0%8F%E6%96%87/"/>
     
   </entry>
   
